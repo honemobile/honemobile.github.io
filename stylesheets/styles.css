@@ -597,6 +597,8 @@ a small {
 
 ul {
   list-style-image: url("../images/bullet.png");
+  font-size: 12px;
+  line-height: 25px;
 }
 
 strong {
@@ -814,7 +816,8 @@ section #title p {
   color: #d7cfbe;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 13px;
+  line-height: 25px;
   /*text-align: center;*/
 }
 section #title p li {
